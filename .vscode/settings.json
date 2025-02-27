@@ -1,0 +1,28 @@
+{
+  "window.title": "${rootName}",
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "workbench.editor.showTabs": "none",
+  "github.copilot.enable": {
+    "plaintext": true,
+    "markdown": true
+  },
+  "terminal.integrated.fontFamily": "MesloLGS Nerd Font Mono",
+  "terminal.integrated.profiles.windows": {
+    "pwsh": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "pwsh",
+  "powershell.startAutomatically": true,
+  "powershell.integratedConsole.showOnStartup": false,
+  "cSpell.words": [
+    "matejovsky",
+    "miroslav",
+    "winsvcwrapper"
+  ],
+}
